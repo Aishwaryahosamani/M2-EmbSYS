@@ -1,5 +1,7 @@
 # Smart Card
 
+![SMART CARD](https://user-images.githubusercontent.com/46986941/154540230-10216242-c863-4ac2-a4a0-0cb7808e0f51.png)
+
 The architecture of a smart card includes three elements like :
 
 I/O System
