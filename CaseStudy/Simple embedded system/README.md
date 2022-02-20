@@ -1,6 +1,6 @@
-# Alarm Clock
+## Alarm Clock
 
-The architecture of a  Arduino Alarm Clock includes elements like :
+# The architecture of a  Arduino Alarm Clock includes elements like :
 
 1.Arduino Uno
 
@@ -14,7 +14,7 @@ The architecture of a  Arduino Alarm Clock includes elements like :
 
 6.Battery
 
-Block Diagram explanation;
+# Block Diagram explanation;
 
 DS 1307: Used for clock and calender. The clock function provides seconds,minutes and hours. Calender function provides day,month and year values.
 
@@ -26,34 +26,34 @@ Buzzer: Acts as an alarm.
 
 Battery: Measure timer even when there is no external power or the micro controller is reprogrammed. 
 
-Requirements:
+## Requirements:
 
-High level requirements:
+# High level requirements:
 
-ID                                       DESCRIPTION
+ * ID                                                                DESCRIPTION
 
-HR01              Even when there is no external power, RTC can be used to measure time.
+* HR01                                  Even when there is no external power, RTC can be used to measure time.
+  
+* HR02                                  Displays clock and calender with all of the functions for  keeping track of time.
 
-HR02              Displays clock and calender with all of the functions for  keeping track of time.
+* HR03                                  Displays the accurate time and date,as well as  an alarm.
 
-HR03              Displays the accurate time and date,as well as  an alarm.
-
-HR04              In the event of power outage, RTC can immediately switch to the backup source. 
-
-
-
-Low level requirements:
+* HR04                                  In the event of power outage, RTC can immediately switch to the backup source. 
 
 
-ID                                     DESCRIPTION
 
-LR01             This is a battery powered clock that keeps  time even when the microcontroller is reprogrammed if there is no external power. 
+# Low level requirements:
 
-LR02             RTC displays The clock and calender  are displayed using RTC which is powered by  a separate battery that is  one  is not connected to the main supply.
 
-LR03             RTC displays correct time and date, as well as an alarm feature.
+* ID                                                              DESCRIPTION
 
-LR04             When there is a power outage, the 3V backup is attached to rtc, allowing the IC can immediately switch to backup source. 
+* LR01                                This is a battery powered clock that keeps  time even when the microcontroller is reprogrammed if there is no external power. 
+
+* LR02                                RTC displays The clock and calender  are displayed using RTC which is powered by  a separate battery that is  one  is not connected to the                                       main supply.
+
+* LR03                                RTC displays correct time and date, as well as an alarm feature.
+
+* LR04                                When there is a power outage, the 3V backup is attached to rtc, allowing the IC can immediately switch to backup source. 
 
 
 
