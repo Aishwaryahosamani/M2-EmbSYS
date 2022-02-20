@@ -56,6 +56,8 @@ Battery: Measure timer even when there is no external power or the micro control
 * LR04                                When there is a power outage, the 3V backup is attached to rtc, allowing the IC can immediately switch to backup source. 
 
 #  V design model
+ 
+ ![alarm clock 1](https://user-images.githubusercontent.com/46986941/154856036-f6ebdf18-72e4-4ea0-a56a-3bab050aafc3.png)
 
 
 
