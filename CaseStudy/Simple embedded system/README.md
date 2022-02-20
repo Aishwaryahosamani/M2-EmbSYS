@@ -1,43 +1,62 @@
-# Air-Conditiong System
+# Alarm Clock
 
-![AC](https://user-images.githubusercontent.com/46986941/154539565-1f8ef52a-65c7-4425-9fb1-79d4064c503f.png)
+The architecture of a  Arduino Alarm Clock includes elements like :
 
-The architecture of the Airconditioner includes
+1.Arduino Uno
 
-1.Beagle Bone Black
+2.DS 1307 RTC Module
 
-2.LCD display
+3.Push Buttons
 
-3.Image processing technique
+4.LCD Display
 
-4.USD
+5.Buzzer
 
-5.Humidity Sensor
+6.Battery
 
-6.Temperature Sensor
+Block Diagram explanation;
 
-7.Video Camera
+DS 1307: Used for clock and calender. The clock function provides seconds,minutes and hours. Calender function provides day,month and year values.
 
-Block Diagram Explanation.
+LCD: Used to display the clock.
 
-*The beagle bone black is the block which processes the entire system where the sensors, drivers, web cam and the SD card is connected to the ports available in the beagle bone board.
+Push Buttons:Used to set alarm.
 
-*A camera is fixed to capture images of the room which is con-nected to the beagle bone via USB. 
+Buzzer: Acts as an alarm.
 
-The image data captured by the camera is sent to the beagle bone and is processed using image processing technique via Open CV.
+Battery: Measure timer even when there is no external power or the micro controller is reprogrammed. 
 
-*The data obtained is video live streamed and then this streamed data is converted to a number of frames where each frame is a data image.
+Requirements:
 
-Each image is processed separately by running the face identifica-tion algorithm.
+High level requirements:
 
-*The image processing by the face detection is done here by the method of Haarcascade face detection tech-nique Open CV. 
+ID                                       DESCRIPTION
 
-*This process calculates the count or density of people for the control of Air-conditioner. 
+HR01              Even when there is no external power, RTC can be used to measure time.
 
-*The L293D Driver is used to control the speed of Air-conditioner.
+HR02              Displays clock and calender with all of the functions for  keeping track of time.
 
-*The humidity sensor SY-HS-220 gives the moisture content density and the LM35 pre-cision centigrade temperature sensor gives temperature of the
+HR03              Displays the accurate time and date,as well as  an alarm.
 
-room.
+HR04              In the event of power outage, RTC can immediately switch to the backup source. 
 
-*The output of both the sensors are analog in nature where it is converted to digital form by processing it at the beagle bone. The temperature is then checked and the speed of the air conditioner is controlled accordingly. The information at each instant is written to the sand-disk (SD) card for future reference. The SD card is inserted to the slot given in the bea-gle bone .The LCD displays the current humidity, temperature and density of people.
+
+
+Low level requirements:
+
+
+ID                                     DESCRIPTION
+
+LR01             This is a battery powered clock that keeps  time even when the microcontroller is reprogrammed if there is no external power. 
+
+LR02             RTC displays The clock and calender  are displayed using RTC which is powered by  a separate battery that is  one  is not connected to the main supply.
+
+LR03             RTC displays correct time and date, as well as an alarm feature.
+
+LR04             When there is a power outage, the 3V backup is attached to rtc, allowing the IC can immediately switch to backup source. 
+
+
+
+
+
+  
