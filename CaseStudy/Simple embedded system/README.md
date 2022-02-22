@@ -32,7 +32,7 @@ Battery: Measure timer even when there is no external power or the micro control
 
 # High level requirements:
 
-                                                              DESCRIPTION
+                                                             
 
 * HR01           :                         Even when there is no external power, RTC can be used to measure time.
   
@@ -48,7 +48,7 @@ Battery: Measure timer even when there is no external power or the micro control
 # Low level requirements:
 
 
-                                                             DESCRIPTION
+                                                          
 
 * LR01               :This is a battery powered clock that keeps  time even when the microcontroller is reprogrammed if there is no external power. 
 
@@ -64,15 +64,15 @@ Battery: Measure timer even when there is no external power or the micro control
 
 # Applications 
 
-*Data recording applications 
+* Data recording applications 
 
-*Time stamps
+* Time stamps
 
-*Alarms
+* Alarms
 
-*Timers
+* Timers
 
-*Clock builders all benefit from real-time clocks.
+* Clock builders all benefit from real-time clocks.
 
 
 
