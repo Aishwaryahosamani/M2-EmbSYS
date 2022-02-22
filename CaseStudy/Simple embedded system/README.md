@@ -62,6 +62,17 @@ Battery: Measure timer even when there is no external power or the micro control
  
  ![alarm clock 1](https://user-images.githubusercontent.com/46986941/154856036-f6ebdf18-72e4-4ea0-a56a-3bab050aafc3.png)
 
+# Applications 
+
+*Data recording applications 
+
+*Time stamps
+
+*Alarms
+
+*Timers
+
+*Clock builders all benefit from real-time clocks.
 
 
 
