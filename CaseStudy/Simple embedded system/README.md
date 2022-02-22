@@ -28,9 +28,9 @@ Buzzer: Acts as an alarm.
 
 Battery: Measure timer even when there is no external power or the micro controller is reprogrammed. 
 
-## Requirements:
+# Requirements:
 
-# High level requirements:
+## High level requirements:
 
                                                              
 
@@ -45,7 +45,7 @@ Battery: Measure timer even when there is no external power or the micro control
 
 
 
-# Low level requirements:
+## Low level requirements:
 
 
                                                           
