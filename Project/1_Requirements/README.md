@@ -65,7 +65,11 @@ the unavailability of parking spots is growing severe, so car parking is a major
 # Applications
 
    Useful wherever parking is available like;
-      Airports
-      Bus stops
-      Railway stations
-      School and collges  etc...
+      
+      * Airports
+      
+      * Bus stops
+      
+      * Railway stations
+     
+     * School and collges  etc...
