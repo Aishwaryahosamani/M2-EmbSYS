@@ -51,7 +51,7 @@ the unavailability of parking spots is growing severe, so car parking is a major
    
  where
  
-   In parking areas
+   In parking areas like bus stops, railway stations
    
  Why
  
@@ -60,3 +60,12 @@ the unavailability of parking spots is growing severe, so car parking is a major
  How
  
   Using sensors and motors
+  
+  
+# Applications
+
+   Useful wherever parking is available like;
+      Airports
+      Bus stops
+      Railway stations
+      School and collges  etc...
