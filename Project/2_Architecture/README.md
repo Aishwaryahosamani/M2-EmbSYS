@@ -35,5 +35,9 @@
  # Flow chart 
  
  ![FC](https://user-images.githubusercontent.com/46986941/155737384-518a18c2-7dc2-4f59-b2ca-58a97f4ef034.png)
+ 
+ # Structural diagram
+ 
+ ![use case car uml](https://user-images.githubusercontent.com/46986941/155785299-f733ab82-3433-450a-a7bf-a4e42c9781a8.png)
 
 
