@@ -27,5 +27,9 @@
  * LCD Display
       
       On LCD, visitors may observe the status of the available free parking space outside the parking lot.
+      
+ # Flow chart of automatic car parking system
+ 
+ ![flow chart](https://user-images.githubusercontent.com/46986941/155718497-f4ee6cef-c0e8-49bf-8427-9b90d7c990e4.png)
 
 
