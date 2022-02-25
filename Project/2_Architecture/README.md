@@ -29,7 +29,10 @@
       
       On LCD, visitors may observe the status of the available free parking space outside the parking lot.
       
- # Flow chart of automatic car parking system
+## UML DIAGRAMS
+ # Behaviroal diagram
+ 
+ # Flow chart 
  
  ![FC](https://user-images.githubusercontent.com/46986941/155737384-518a18c2-7dc2-4f59-b2ca-58a97f4ef034.png)
 
