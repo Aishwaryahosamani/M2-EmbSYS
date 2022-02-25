@@ -1,4 +1,4 @@
-# Identifying features
+## Identifying features
 
 1. IR Sensors are provided for easy detection of movement of vehicles.
 2. LCD to be used to see the status of the availability of parking slots.
@@ -65,11 +65,11 @@ the unavailability of parking spots is growing severe, so car parking is a major
 # Applications
 
    Useful wherever parking is available like;
-      
-       Airports
-      
-       Bus stops
-      
-       Railway stations
-     
-       School and collages  etc...
+ 
+ Airports
+ 
+ Bus stops
+ 
+ Railway stations
+ 
+ School and collages  etc...
