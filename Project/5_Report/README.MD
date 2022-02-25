@@ -67,13 +67,13 @@ the unavailability of parking spots is growing severe, so car parking is a major
 
    Useful wherever parking is available like;
       
-      * Airports
+       Airports
       
-      * Bus stops
+       Bus stops
       
-      * Railway stations
+       Railway stations
      
-     * School and collages  etc...
+       School and collages  etc...
      
   # Description
 
