@@ -31,6 +31,6 @@
       
  # Flow chart of automatic car parking system
  
- ![flow chart](https://user-images.githubusercontent.com/46986941/155718497-f4ee6cef-c0e8-49bf-8427-9b90d7c990e4.png)
+ ![FC](https://user-images.githubusercontent.com/46986941/155737384-518a18c2-7dc2-4f59-b2ca-58a97f4ef034.png)
 
 
