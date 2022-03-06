@@ -16,7 +16,7 @@ the unavailability of parking spots is growing severe, so car parking is a major
 
  |   ID          |Description                         | 
  |--------------------|------------------------------------|
- |HLR01      |The  shall sense the availabilty of empty slots   |
+ |HLR01      |The  system shall sense the availabilty of empty slots   |
  |HLR02   |The system  shall able to open and close the gate  |
  |HLR03   |Shall be able to display the status of availability    | 
  |HLR04   | shall be able to allow new cars |
