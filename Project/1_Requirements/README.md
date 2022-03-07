@@ -37,24 +37,10 @@ the unavailability of parking spots is growing severe, so car parking is a major
  
  # 5W's and 1H
  
-  Who
-       :People using their cars
- 
- What 
-       : Car parking system
   
-When 
-       : When they want to park their cars
-   
- where
-       :In parking areas like bus stops, railway stations
-   
-Why
-       :TO avoid clashes and traffic
-  
-How
-       :Using sensors and motors
-  
+  [Screenshot (7)](https://user-images.githubusercontent.com/46986941/157120137-62dbe204-3258-496e-9612-71a3d5cfb7c3.png)
+
+       
   
 # Applications
 
