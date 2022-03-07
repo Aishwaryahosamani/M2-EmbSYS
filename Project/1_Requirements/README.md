@@ -37,8 +37,7 @@ the unavailability of parking spots is growing severe, so car parking is a major
  
  # 5W's and 1H
  
-  
-  [Screenshot (7)](https://user-images.githubusercontent.com/46986941/157120137-62dbe204-3258-496e-9612-71a3d5cfb7c3.png)
+
 
        
   
