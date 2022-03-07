@@ -39,23 +39,23 @@ the unavailability of parking spots is growing severe, so car parking is a major
  
  # Who
   
-      People using their cars
+     People using their cars
  
 # What 
   
-      Car parking system
+    Car parking system
   
 # When 
     
-      When they want to park their cars
+     When they want to park their cars
    
 # where
  
-      In parking areas like bus stops, railway stations
+   In parking areas like bus stops, railway stations
    
 # Why
  
-      TO avoid clashes and traffic
+    TO avoid clashes and traffic
   
 # How
  
