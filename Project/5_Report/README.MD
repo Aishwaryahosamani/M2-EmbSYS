@@ -34,46 +34,35 @@ the unavailability of parking spots is growing severe, so car parking is a major
  
  # SWOT Analysis
  
-![swot](https://user-images.githubusercontent.com/46986941/155784371-70128f38-ba4d-4762-8d08-03bac502e99b.png)
+ ![image](https://user-images.githubusercontent.com/46986941/157201436-8a87c191-856b-4293-97c6-9b1914db4607.png)
  
  # 5W's and 1H
  
- Who
-  
-  People using their cars
- 
- What 
-  
-  Car parking system
-  
- When 
-   
-   When they want to park their cars
-   
- where
- 
-   In parking areas like bus stops, railway stations
-   
- Why
- 
-  TO avoid clashes and traffic
-  
- How
- 
-  Using sensors and motors
-  
+
+![Screenshot (7)](https://user-images.githubusercontent.com/46986941/157120332-243aa678-da70-4ba0-a4f4-2d7f63397d92.png)
+       
   
 # Applications
 
-Useful wherever parking is available like;
-      
-Airports
-      
-Bus stops
-      
-Railway stations
-     
-School and collages  etc...
+  Useful wherever parking is available like;
+ 
+ Airports
+ 
+ Bus stops
+ 
+ Railway stations
+ 
+ School and collages  etc...
+ 
+ # Description
+
+  Automatic car parking system is capable of automatically locating open parking spaces that are empty. New vehicles are allowed to enter the automated car parking if there is an empty slot.# Block Diagram of Car Parking System.
+
+# Block Diagram Of Automatic Car Parking System
+
+![image](https://user-images.githubusercontent.com/46986941/157232208-0ab2dbce-ea7f-432d-8833-416b969d58fd.png)
+
+
      
      
   # Description
