@@ -1,6 +1,6 @@
 ## Identifying features
 
-1. IR Sensors are provided for easy detection of movement of vehicles.
+1. Ultra sonic Sensors are provided for easy detection of movement of vehicles.
 2. LCD to be used to see the status of the availability of parking slots.
 3. Servo motors for simulation as gate opener motors.
 
@@ -26,8 +26,8 @@ the unavailability of parking spots is growing severe, so car parking is a major
  
   |   ID           |Description                         | 
  |--------------------|------------------------------------|
- |LLR01   |IR Sensors are used to sense the availabity of empty slots    |
- |LLR02     | the system shall use servo motor to open and close the gate    |
+ |LLR01   |Ultra sonic Sensors are used to sense the availabity of empty slots    |
+ |LLR02     | The system shall use servo motor to open and close the gate    |
  |LLR03  |On a 162 LCD, visitors may observe the status of the available free parking space outside the parking lot.      | 
  |LLR04  |When the slots are empty it shall be able to allow new cars   |
  
