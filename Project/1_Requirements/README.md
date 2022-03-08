@@ -33,7 +33,7 @@ the unavailability of parking spots is growing severe, so car parking is a major
  
  # SWOT Analysis
  
-![swot](https://user-images.githubusercontent.com/46986941/155784371-70128f38-ba4d-4762-8d08-03bac502e99b.png)
+ ![image](https://user-images.githubusercontent.com/46986941/157201436-8a87c191-856b-4293-97c6-9b1914db4607.png)
  
  # 5W's and 1H
  
