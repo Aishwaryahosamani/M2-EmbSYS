@@ -4,6 +4,8 @@
 
 # Block Diagram Of Automatic Car Parking System
 
+![image](https://user-images.githubusercontent.com/46986941/157232208-0ab2dbce-ea7f-432d-8833-416b969d58fd.png)
+
 
 
 ## Components
