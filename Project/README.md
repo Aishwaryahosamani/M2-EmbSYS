@@ -1,4 +1,4 @@
-# Autommatic Car Parking System
+# Automatic Car Parking System
 
 # Description
 
