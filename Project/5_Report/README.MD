@@ -1,7 +1,7 @@
 
 # Identifying features
 
-1. IR Sensors are provided for easy detection of movement of vehicles.
+1. Ultrasonic Sensors are provided for easy detection of empty slots of .
 2. LCD to be used to see the status of the availability of parking slots.
 3. Servo motors for simulation as gate opener motors.
 
@@ -27,8 +27,8 @@ the unavailability of parking spots is growing severe, so car parking is a major
  
   |   ID           |Description                         | 
  |--------------------|------------------------------------|
- |LLR01   |IR Sensors are used to sense the availabity of empty slots    |
- |LLR02     | the system shall use servo motor to open and close the gate    |
+ |LLR01   | Ultra sonic Sensors are used to sense the availabity of empty slots    |
+ |LLR02     | The system shall use servo motor to open and close the gate    |
  |LLR03  |On a 162 LCD, visitors may observe the status of the available free parking space outside the parking lot.      | 
  |LLR04  |When the slots are empty it shall be able to allow new cars   |
  
@@ -63,34 +63,20 @@ the unavailability of parking spots is growing severe, so car parking is a major
 ![image](https://user-images.githubusercontent.com/46986941/157232208-0ab2dbce-ea7f-432d-8833-416b969d58fd.png)
 
 
-     
-     
-  # Description
-
-  Automatic car parking system is capable of automatically locating open parking spaces that are empty. New vehicles are allowed to enter the automated car parking if there is an empty slot.# Block Diagram of Car Parking System.
-
-# Block Diagram Of Automatic Car Parking System
-
-![BlockD](https://user-images.githubusercontent.com/46986941/155737669-f416c3c0-f0d9-4387-9fc9-242f286bc7f0.png)
-
-
+ 
 ## Components
 
 * Arduino Uno
      
      All sensors,motors and peripherals are interfaced witH Arduino Uno. Arduino senses the data and sends commands to  LCD and Motors
 
-* IR Sensor
+* Ultrasonic Sensor
      
-     IR Sensors are used to sense the availabity of empty slots    
+     Ultra sonic Sensors are used to sense the availabity of empty slots    
  
 * Servo Motor
      
      The system shall use servo motor to open and close the gate  
-
-* I2C Module
-     
-     Enables communication between Arduino and LCD 
      
  * LCD Display
       
