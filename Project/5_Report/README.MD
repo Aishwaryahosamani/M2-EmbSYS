@@ -105,7 +105,9 @@ the unavailability of parking spots is growing severe, so car parking is a major
 |TC_03   |If there is empty slot  | servo motor input  | open the gate |
 |TC_04|No empty slots |servo motor |Block the gate|
 |TC_05|open /close the gate| servo motor |Display on LCD |
-
+ 
+ # Implementation
+ 
 # Before car arrives the LCD will be displaying as parking system
 
 ![image](https://user-images.githubusercontent.com/46986941/157209799-98ce6946-449b-42c5-9836-26c74058fe00.png)
