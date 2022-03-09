@@ -24,7 +24,7 @@
      
  # Applications
 
-  1.This system is applicable whever parking is possible
+  1.This system is applicable wherever parking is possible
   
   2.In Airports when the passengers need to park their car.
  
