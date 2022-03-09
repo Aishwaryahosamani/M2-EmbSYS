@@ -44,15 +44,17 @@ the unavailability of parking spots is growing severe, so car parking is a major
   
 # Applications
 
-  Useful wherever parking is available like;
  
- Airports
+  1.This system is applicable whever parking is possible
+  
+  2.In Airports when the passengers need to park their car.
  
- Bus stops
+  3.In Bus stops,Railway stations.
+
+  4.In all public places like schools, colleges, etc...
+
  
- Railway stations
- 
- School and collages  etc...
+
  
  # Description
 
