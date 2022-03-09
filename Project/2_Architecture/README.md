@@ -14,17 +14,14 @@
      
      All sensors,motors and peripherals are interfaced witH Arduino Uno. Arduino senses the data and sends commands to  LCD and Motors
 
-* IR Sensor
+* Ultrasonic Sensor
      
-     IR Sensors are used to sense the availabity of empty slots    
+     UltrasnicSensors are used to sense the availabity of empty slots    
  
 * Servo Motor
      
      The system shall use servo motor to open and close the gate  
 
-* I2C Module
-     
-     Enables communication between Arduino and LCD 
      
  * LCD Display
       
